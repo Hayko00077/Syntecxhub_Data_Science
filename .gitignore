@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+charts/
+plots/
+correlation_plots/
